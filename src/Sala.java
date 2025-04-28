@@ -11,7 +11,6 @@ public class Sala {
         this.capacidad = capacidad;
         this.funciones = new ArrayList<>();
     }
-    public Sala(){}
 
     public int getNumero() {
         return numero;
